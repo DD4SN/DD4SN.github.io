@@ -1,4 +1,4 @@
-홀로도리 계산기 1.0.9
+홀로도리 계산기
 
 서비스: https://doricalc-holo.live/
 
