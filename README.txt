@@ -1,4 +1,4 @@
-홀로도리 계산기
+갤산기
 
 서비스: https://doricalc-holo.live/
 
